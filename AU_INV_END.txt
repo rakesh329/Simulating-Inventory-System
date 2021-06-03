@@ -1,0 +1,1 @@
+{'end-year': 2003, 'end_stock': 799, 'end_revenue': 810718.64}
